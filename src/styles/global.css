@@ -15,4 +15,11 @@
 @theme {
   --font-wavy: "Wavy", cursive;
   --font-garamond: "AppleGaramond", serif;
+
+  --color-evergreen: #212c17;
+  --color-olive: #4f5934;
+  --color-ember: #b45317;
+  --color-goldenrod: #b17d29;
+  --color-sand: #c1bc6a;
+  --color-tan: #d5bc9e;
 }
